@@ -4,7 +4,7 @@
   </span>
   Tape
 </h1>
-<h2 align="center">Accessible, Music Splitting</h2>
+<h2 align="center">Accessible Music Splitting</h2>
 
 <br/>
 
